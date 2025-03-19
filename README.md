@@ -1,5 +1,8 @@
 # 👩🏻‍💻 Gabriela Sampaio
 
+_Read this in other languages:_
+[_English_](./translations/README-EN.md)
+
 **`Desenvolvedora Front-end`**
 
 Me chamo Gabriela Sampaio da Silva, tenho 28 anos e sou natural de São Paulo. Concluí um curso técnico em informática no Senac em 2024. Atualmente, estou cursando Tecnologia da Informação na UNIVESP com conclusão prevista para 2027. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Gabriela Sampaio](https://www.youtube.com/@gabrielasam-s)", onde mostro na prática meus projetos web.
