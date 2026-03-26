@@ -2,7 +2,7 @@
 
 **`Front-end Developer`**
 
-My name is Gabriela Sampaio da Silva, I am 28 years old and I am from São Paulo. I completed a technical course in computer science at Senac in 2024. I am currently studying Information Technology at UNIVESP, scheduled to graduate in 2027. I am passionate about technology and share my knowledge through my YouTube channel "[Gabriela Sampaio](https://www.youtube.com/@gabrielasam-s)", where I show my web projects in practice.
+My name is Gabriela Sampaio, I am 29 years old and I am from Guarulhos - São Paulo. I completed a Technical course in Computer Science at Senac in 2024 and currently I'm studying Information Technology at UNIVESP, scheduled to graduate in second semester from 2027.
 
 ---
 ### 🤖 Skills and Technologies
