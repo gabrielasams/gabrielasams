@@ -5,7 +5,7 @@ _Read this in other languages:_
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Gabriela Sampaio da Silva, tenho 28 anos e sou natural de São Paulo. Concluí um curso técnico em informática no Senac em 2024. Atualmente, estou cursando Tecnologia da Informação na UNIVESP com conclusão prevista para 2027. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Gabriela Sampaio](https://www.youtube.com/@gabrielasam-s)", onde mostro na prática meus projetos web.
+Me chamo Gabriela Sampaio, tenho 29 anos e sou natural de Guarulhos - São Paulo. Concluí um curso Técnico em Informática pelo Senac em 2024 e atualmente, estou cursando Tecnologia da Informação na UNIVESP com conclusão prevista para o segundo semestre de 2027.
 
 ---
 ### 🤖 Linguagens e Tecnologias
